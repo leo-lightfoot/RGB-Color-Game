@@ -1,3 +1,22 @@
 body{
 	background-color: #262626;
+	margin: 0;
+	font-family : Georgia, serif;
+}
+
+h1{
+	color: white;
+}
+
+.square{
+	width: 30%;
+	background: green;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+#container{
+	margin : 20px auto;
+	max-width: 500px;
 }
